@@ -134,6 +134,7 @@ const run = async () => {
     const referenceFaces = [
         { name: 'Veshant', imagePath: './images/my.jpeg' },
         { name: 'Aman', imagePath: './images/aman.jpeg' },
+        { name: 'Yashika', imagePath: './images/yashika.jpeg' },
     ];
 
     const labeledDescriptors = [];
