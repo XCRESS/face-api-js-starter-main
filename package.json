@@ -1,0 +1,18 @@
+{
+  "name": "face-api",
+  "version": "1.0.0",
+  "description": "1. run npm install in the root directory 2. run node on server.js 3. go to http://localhost:5000 ### images in public were generated with fooocus. None are known to have any actual people in them",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mkcert": "^3.2.0",
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
